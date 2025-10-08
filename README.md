@@ -25,7 +25,7 @@ This assignment covers the following tasks:
 	- Provided a screenshot of the dashboard after completing Tasks 1 & 2.
 	- The dashboard screenshot clearly shows the username.
 
-## This is the output
+## This is the output in images
 
 + **Task 1:**
 	- PDB creation:
@@ -35,7 +35,7 @@ This assignment covers the following tasks:
      
 	  ![Task01-VerifyCreatedPDB](screenshots/Task01-VerifyCreatedPDB.png)
 
-**Task 2:**
++ **Task 2:**
 
 	- Temporary PDB creation:
 
@@ -45,7 +45,7 @@ This assignment covers the following tasks:
 
 		![Task02-TempPDBdropped](screenshots/Task02-TempPDBdropped.png)
 
-**Task 3:**
++ **Task 3:**
 
 	- OEM dashboard showing username:
 
