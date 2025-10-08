@@ -27,14 +27,26 @@ This assignment covers the following tasks:
 
 ## This is the output
 
-- **Task 1:**
-	- [Task01-CreatePDB.png](screenshots/Task01-CreatePDB.png): PDB creation
-	- [Task01-VerifyCreatedPDB.png](screenshots/Task01-VerifyCreatedPDB.png): Verification of created PDB
-- **Task 2:**
-	- [Task02-CreatedTempPDB.png](screenshots/Task02-CreatedTempPDB.png): Temporary PDB creation
-	- [Task02-TempPDBdropped.png](screenshots/Task02-TempPDBdropped.png): Temporary PDB deletion
-- **Task 3:**
-	- [Task03-OEMdashboard.png](screenshots/Task03-OEMdashboard.png): OEM dashboard showing username
++ **Task 1:**
+	- PDB creation:
+     
+	  ![Task01-CreatePDB](screenshots/Task01-CreatePDB.png)
+	- Verification of created PDB:
+     
+	  ![Task01-VerifyCreatedPDB](screenshots/Task01-VerifyCreatedPDB.png)
+
+**Task 2:**
+	- Temporary PDB creation:
+     
+	  ![Task02-CreatedTempPDB](screenshots/Task02-CreatedTempPDB.png)
+	- Temporary PDB deletion:
+     
+	  ![Task02-TempPDBdropped](screenshots/Task02-TempPDBdropped.png)
+
+**Task 3:**
+	- OEM dashboard showing username:
+     
+	  ![Task03-OEMdashboard](screenshots/Task03-OEMdashboard.png)
 
 ## Notes & Issues
 - All tasks were completed successfully.
